@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: |cffaaaaaanib|rChatTabs
+## Author: Nibelheim
+## Notes: Modifies the appearance of the Chat Tabs
+## Version: 4.10
+## SavedVariables: nibChatTabsDB
+## OptionalDeps: nibLibs, Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets
+
+## X-WoWI-ID: 16899
+
+Embeds.xml
+Core.lua
+Config.lua
