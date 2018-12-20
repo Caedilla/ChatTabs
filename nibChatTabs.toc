@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: |cffaaaaaanib|rChatTabs
 ## Author: Nibelheim
 ## Notes: Modifies the appearance of the Chat Tabs
